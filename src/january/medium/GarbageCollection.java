@@ -1,4 +1,4 @@
-package january.hard;
+package january.medium;
 
 public class GarbageCollection {
     public int garbageCollection(String[] garbage, int[] travel) {
