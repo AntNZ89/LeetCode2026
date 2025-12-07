@@ -1,5 +1,6 @@
 package january.medium;
 
+
 public class MinPartitions {
     public int minPartitions(String n) {
 
